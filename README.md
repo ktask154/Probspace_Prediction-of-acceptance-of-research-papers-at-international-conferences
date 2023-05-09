@@ -1,4 +1,4 @@
-# 
+# 研究論文の国際学会採択予測  1st Place Solution 🥇
 
 [link](https://comp.probspace.com/competitions/paper_acception)
 
