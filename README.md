@@ -13,21 +13,21 @@ Accuracy
 <br />
 
 ## シングルモデル
-| exp | model |
------ | -----
- 63 | deberta-v3-base
- 64 | bert-base-uncased
- 65 | deberta-base
- 66 | roberta-base
- 68 | bart-base
- 69 | electra-base-discriminator
- 70 | funnel-transformer/medium
- 71 | albert-base-v2
- 72 | deberta-v3-small
- 74 | distilbert-base-uncased
- 75 | distilbart-cnn-12-6
- 76 | muppet-roberta-base
- 77 | gpt-neo-125m
+| exp | model | cv |
+----- | ----- | --
+ 63 | deberta-v3-base | 0.7185
+ 64 | bert-base-uncased | 0.7207
+ 65 | deberta-base | 0.7203
+ 66 | roberta-base | 0.7195
+ 68 | bart-base | 0.7191
+ 69 | electra-base-discriminator | 0.7181
+ 70 | funnel-transformer/medium | 0.7189
+ 71 | albert-base-v2 | 0.7207
+ 72 | deberta-v3-small | 0.7193
+ 74 | distilbert-base-uncased | 0.7187
+ 75 | distilbart-cnn-12-6 | 0.7169
+ 76 | muppet-roberta-base | 0.7207
+ 77 | gpt-neo-125m | 0.7131
  
  
  <br />
